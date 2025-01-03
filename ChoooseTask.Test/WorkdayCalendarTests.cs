@@ -1,6 +1,6 @@
 ﻿using FluentAssertions;
 
-namespace ChoooseTask.Tests
+namespace ChoooseTask.Test
 {
     public class WorkdayCalendarTests
     {
